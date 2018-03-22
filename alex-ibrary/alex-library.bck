@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMRS-1
+D RF Mixer (mélangeur)
+K RF-Mixer, mélangeur
+$ENDCMP
+#
+$CMP MD-108
+D RF Mixer (mélangeur)
+K RF-Mixer, mélangeur
+$ENDCMP
+#
+#End Doc Library

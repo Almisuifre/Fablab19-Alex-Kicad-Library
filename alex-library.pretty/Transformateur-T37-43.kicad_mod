@@ -1,0 +1,23 @@
+(module Transformateur-T37-43 (layer F.Cu) (tedit 5AB3F9FF)
+  (fp_text reference REF** (at -3 -8) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Transformateur (at 0 7) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -6 -9) (end 6 -9) (layer F.SilkS) (width 0.1))
+  (fp_line (start 6 -9) (end 6 8) (layer F.SilkS) (width 0.1))
+  (fp_line (start 6 8) (end -6 8) (layer F.SilkS) (width 0.1))
+  (fp_line (start -6 8) (end -6 -9) (layer F.SilkS) (width 0.1))
+  (pad 1 thru_hole rect (at -2.54 -5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at -2.54 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 2.54 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 5 thru_hole circle (at 2.54 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 6 thru_hole circle (at -2.54 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (model C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-BITX40-Projet/Kicad/package3d/HF-Modules.3dshapes/Self-T37-43.wrl
+    (at (xyz 0 0 0.4))
+    (scale (xyz 0.8 0.8 0.8))
+    (rotate (xyz 0 0 0))
+  )
+)
