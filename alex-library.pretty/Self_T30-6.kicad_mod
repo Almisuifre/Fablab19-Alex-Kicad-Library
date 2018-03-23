@@ -11,7 +11,7 @@
   (fp_line (start 4.5 -2.5) (end 4.5 2.5) (layer F.SilkS) (width 0.1))
   (pad 1 thru_hole circle (at 0 -1.27) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 1.27) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-BITX40-Projet/Kicad/package3d/HF-Modules.3dshapes/Self-T30-6.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/HF-Modules.3dshapes/Self-T30-6.wrl
     (at (xyz 0 0 0.18))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 90))

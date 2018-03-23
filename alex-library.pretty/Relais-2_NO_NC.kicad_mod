@@ -39,7 +39,7 @@
   (pad 11 thru_hole circle (at 5.08 -3.81) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 10.16 -3.81) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 10.16 3.81) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-BITX40-Projet/Kicad/package3d/Relais-Modules.3dshapes/Relais-D2n.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Relais-Modules.3dshapes/Relais-D2n.wrl
     (at (xyz -0.3 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 -90))

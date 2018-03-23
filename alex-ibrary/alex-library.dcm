@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Chevron
+D Chevron
+K Chevron imprimé
+$ENDCMP
+#
 $CMP D2n
 D American Zettler, Microminiature Polarised Dual Pole Relay
 K Miniature Polarised Relay Dual Pole
@@ -14,6 +19,16 @@ $ENDCMP
 $CMP MD-108
 D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
+$ENDCMP
+#
+$CMP Q_NPN_BCE
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP Q_PNP_BCE
+D Transistor PNP (general)
+K pnp transistor
 $ENDCMP
 #
 #End Doc Library

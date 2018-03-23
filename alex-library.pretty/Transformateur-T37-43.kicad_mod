@@ -15,7 +15,7 @@
   (pad 4 thru_hole circle (at 2.54 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.54 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -2.54 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-BITX40-Projet/Kicad/package3d/HF-Modules.3dshapes/Self-T37-43.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/HF-Modules.3dshapes/Self-T37-43.wrl
     (at (xyz 0 0 0.4))
     (scale (xyz 0.8 0.8 0.8))
     (rotate (xyz 0 0 0))
