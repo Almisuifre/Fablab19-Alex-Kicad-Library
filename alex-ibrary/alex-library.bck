@@ -21,6 +21,11 @@ D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
 $ENDCMP
 #
+$CMP Q_NPN_BCE
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
 $CMP Q_PNP_BCE
 D Transistor PNP (general)
 K pnp transistor

@@ -1,5 +1,5 @@
-(module Connect-3pin (layer F.Cu) (tedit 5AB3F98B)
-  (fp_text reference REF** (at 0 2.54) (layer F.SilkS) hide
+(module Connect-3pin (layer F.Cu) (tedit 5AB62185)
+  (fp_text reference REF** (at 0 2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Connect-3pin (at 0 -2.54) (layer F.Fab) hide
