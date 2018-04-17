@@ -1,4 +1,4 @@
-(module TO-18-3 (layer F.Cu) (tedit 5AB54B03)
+(module TO-18-3 (layer F.Cu) (tedit 5ABA69BA)
   (descr TO-18-3)
   (tags TO-18-3)
   (fp_text reference REF** (at 1.27 -4.02) (layer F.SilkS)
@@ -32,9 +32,9 @@
   (fp_circle (center 1.27 0) (end 3.67 0) (layer F.Fab) (width 0.1))
   (fp_arc (start 1.27 0) (end -0.329057 -2.419301) (angle 336.9) (layer F.Fab) (width 0.1))
   (fp_arc (start 1.27 0) (end -0.312331 -2.572281) (angle 333.2) (layer F.SilkS) (width 0.12))
-  (pad 3 thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.7) (layers *.Cu *.Mask))
-  (pad 1 thru_hole oval (at 1.27 1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
-  (pad 2 thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
+  (pad 3 thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.8) (layers *.Cu *.Mask))
+  (pad 1 thru_hole oval (at 1.27 1.27) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-18-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
