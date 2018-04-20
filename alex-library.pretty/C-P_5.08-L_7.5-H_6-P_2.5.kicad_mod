@@ -24,7 +24,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Capas/Capa-Plastique-Pas_5_08-Larg_7_5-Haut_6-Prof_2_5.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Capas.3dshapes/Capa-Plastique-Pas_5_08-Larg_7_5-Haut_6-Prof_2_5.wrl
     (at (xyz 0.097 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

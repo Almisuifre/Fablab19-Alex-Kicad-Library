@@ -157,7 +157,7 @@
   (pad 28 thru_hole oval (at 15.24 5.08) (size 2.5 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 29 thru_hole oval (at 15.24 2.54) (size 2.5 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 30 thru_hole oval (at 15.24 0) (size 2.5 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Arduino/Arduino-Nano-V3.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Arduino.3dshapes/Arduino-Nano-V3.wrl
     (at (xyz 0.3 -0.715 0.1))
     (scale (xyz 0.395 0.395 0.395))
     (rotate (xyz 0 0 90))

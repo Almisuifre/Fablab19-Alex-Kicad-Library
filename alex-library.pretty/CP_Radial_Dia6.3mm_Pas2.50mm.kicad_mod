@@ -154,7 +154,7 @@
   )
   (pad 1 thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Capas/CP_Radial_Dia6.3mm_Pas2.50mm.wrl
+  (model ../../../../../../Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/package3d/Capas.3dshapes/CP_Radial_Dia6.3mm_Pas2.50mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
