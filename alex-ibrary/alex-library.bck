@@ -16,6 +16,36 @@ D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
 $ENDCMP
 #
+$CMP L7805
+D Positive 1.0A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-263-3/TO-252, Farnell 2534300
+K Voltage Regulator 1.0A Positive
+F http://www.farnell.com/datasheets/1878412.pdf
+$ENDCMP
+#
+$CMP L7809
+D Positive 1.5A 35V Linear Regulator, Fixed Output 9V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7812
+D Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7815
+D Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7824
+D Positive 1.5A 40V Linear Regulator, Fixed Output 24V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
 $CMP MD-108
 D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
