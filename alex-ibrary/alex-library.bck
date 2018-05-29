@@ -46,6 +46,12 @@ K Voltage Regulator 1.5A Positive
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
 $ENDCMP
 #
+$CMP LM317_A
+D 1A 35V Adjustable Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263, Farnell 9493301
+K Adjustable Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/lm317a.pdf
+$ENDCMP
+#
 $CMP MD-108
 D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
