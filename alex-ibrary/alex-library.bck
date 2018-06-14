@@ -74,6 +74,16 @@ D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
 $ENDCMP
 #
+$CMP Matrice_4x4x4x_64leds
+D Matrice à led 4x4x4 - 64 leds
+K Matrice
+$ENDCMP
+#
+$CMP Matrice_8x8x8_512leds
+D Matrice à led 8x8x8 - 512 leds
+K Matrice
+$ENDCMP
+#
 $CMP PN2222A
 D 40V Vce, 1A Ic, NPN, General Purpose Transistor, TO-92
 K NPN Transistor

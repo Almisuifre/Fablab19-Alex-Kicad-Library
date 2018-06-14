@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="100"
+   viewBox="0 0 200 100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="F4HYU-Logo.svg"
+   inkscape:export-filename="C:\Users\PORTABLE\Documents\GitProjets\Fablab19-Alex-Kicad-Library\alex-library.pretty\F4HYU-Logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.75"
+     inkscape:cx="100"
+     inkscape:cy="53.077822"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <rect
+       style="fill:#ff4500;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
+       id="rect4193"
+       height="100"
+       x="-0.26666668"
+       y="951.8288"
+       width="200" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136"
+       style="font-style:normal;font-weight:normal;font-size:50px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="matrix(1.1810198,0,0,1.1810198,-25.501742,968.90915)"><flowRegion
+         id="flowRegion4138"><rect
+           id="rect4140"
+           width="174.13333"
+           height="68"
+           x="21.066668"
+           y="16"
+           style="stroke:#ffffff;fill:#ffffff;" /></flowRegion><flowPara
+         id="flowPara4142">F4HYU</flowPara></flowRoot>    <g
+       id="g4184"
+       transform="matrix(1.1330091,0,0,1.1330091,-24.198338,-127.18319)"
+       style="fill:none;stroke:#ffffff">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4144"
+         d="m 136.11169,982.36636 c 0,0 10.29083,-2.89102 23.01145,1.92733 12.72062,4.81837 10.86255,9.99808 10.86255,9.99808"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.92050695;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4144-8"
+         d="m 133.43493,973.04244 c 0,0 13.76242,-4.58747 30.7743,3.05832 17.01187,7.64578 14.52699,15.86501 14.52699,15.86501"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.16792679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4144-8-4"
+         d="m 129.80318,961.98525 c 0,0 17.58428,-5.97054 39.32039,3.98036 21.73612,9.95089 18.56118,20.64811 18.56118,20.64811"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:9.24332809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.54456711px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.454788"
+       y="988.30017"
+       id="text4189"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4191"
+         x="3.454788"
+         y="988.30017" /></text>
+  </g>
+</svg>
