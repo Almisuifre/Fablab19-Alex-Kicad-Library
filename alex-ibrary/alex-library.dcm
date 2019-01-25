@@ -22,6 +22,11 @@ D Chevron
 K Chevron imprimé
 $ENDCMP
 #
+$CMP Cloison-70x49_5
+D Cloison àsouder
+K Cloison, HF
+$ENDCMP
+#
 $CMP D2n
 D American Zettler, Microminiature Polarised Dual Pole Relay
 K Miniature Polarised Relay Dual Pole
@@ -69,6 +74,12 @@ K Adjustable Voltage Regulator 1A Positive
 F http://www.ti.com/lit/ds/symlink/lm317a.pdf
 $ENDCMP
 #
+$CMP LM3915
+D LM3915
+K LM3915
+F http://tronixstuff.com/wp-content/uploads/2013/12/LM3915-data-sheet.pdf
+$ENDCMP
+#
 $CMP MD-108
 D RF Mixer (mélangeur)
 K RF-Mixer, mélangeur
@@ -100,10 +111,20 @@ D Transistor PNP (general)
 K pnp transistor
 $ENDCMP
 #
+$CMP Relais_2_RT
+D Relais 2RT
+K Relais
+$ENDCMP
+#
 $CMP SN74HC595
 D SN74HC595N -  Registre à décalage, 74HC595, 8 bit, 16 Broches
 K SN74HC595 74HC595 SN74HC595N
 F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN74HC595&&fileType=pdf
+$ENDCMP
+#
+$CMP VK200
+D Self de filtrage
+K Self, filtrage
 $ENDCMP
 #
 #End Doc Library
